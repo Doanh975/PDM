@@ -73,8 +73,13 @@ Users to Audit_Logs is a one-to-many relationship.
 Tax_Calculations to Payments is a one-to-many relationship.
 Tax_Rules provides lookup data for calculating taxes.
 
-<iframe width="100%" height="500px" style="box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); border-radius:15px;" allowtransparency="true" allowfullscreen="true" scrolling="no" title="Embedded DrawSQL IFrame" frameborder="0" src="https://drawsql.app/teams/tran-hoang-doanh/diagrams/tcs/embed"></iframe>
-https://drawsql.app/teams/tran-hoang-doanh/diagrams/tcs/embed
+
+
+
 ![drawSQL-image-export-2024-10-16](https://github.com/user-attachments/assets/90ca95f9-9801-4038-b792-12c53da2cff0)
 
 
+
+
+note:
+https://drawsql.app/teams/tran-hoang-doanh/diagrams/tcs/embed
