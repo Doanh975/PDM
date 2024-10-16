@@ -63,3 +63,12 @@
 - action (e.g., create, update, delete)
 - action_date
 - details
+
+### Relationships
+Users to Income_Details is a one-to-many relationship.
+Users to Tax_Calculations is a one-to-many relationship.
+Users to Deductions is a one-to-many relationship.
+Users to Payments is a one-to-many relationship.
+Users to Audit_Logs is a one-to-many relationship.
+Tax_Calculations to Payments is a one-to-many relationship.
+Tax_Rules provides lookup data for calculating taxes.
